@@ -1,0 +1,14 @@
+# 私有档案，绝对不要提交（含手机号、邮箱、真实履历）
+profile.md
+my-resume-template.html
+
+# 生成的产物
+output/
+工作*/
+*.local.json
+
+# 常规
+__pycache__/
+.DS_Store
+Thumbs.db
+.venv/

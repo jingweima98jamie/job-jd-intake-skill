@@ -1,0 +1,54 @@
+{
+  "_说明": "复制本文件改成你的岗位规格。template 指向你自己的简历母版（排版/教育背景/照片都从母版取）。",
+  "template": "../assets/resume-template.example.html",
+  "folder": "output/示例公司+数据运营",
+  "filename": "示例姓名_数据运营_简历",
+  "name": "示例姓名",
+  "intent": "数据运营",
+  "contact": "13800000000 ｜ your@email.com",
+  "tagline": "3 年数据运营 ｜ SQL 取数与归因 ｜ 报表自动化 ｜ Excel / Power BI",
+  "summary": "3 年<strong>数据运营</strong>：从业务问题出发取数、清洗、定位原因，再把结论固化成规则或看板推给业务方用。JD 里【哪几条要求】正好是我日常在做的事。",
+  "work": {
+    "company": "【公司名】",
+    "title": "【岗位名，可微调措辞贴近 JD】",
+    "meta": "2022.07 - 2026.06 ｜ 【城市】",
+    "sub": "【一句话说清负责什么】",
+    "bullets": [
+      "<strong>【小标题，用动词开头】</strong>：【做了什么 + 结果数字，数字必须真实】",
+      "<strong>【小标题】</strong>：【做了什么 + 结果数字】",
+      "<strong>【小标题】</strong>：【做了什么 + 结果数字】"
+    ]
+  },
+  "projects": [
+    {
+      "title": "【项目名（角色）】",
+      "meta": "【时间】 ｜ 【城市】",
+      "link": "https://github.com/yourname/your-project",
+      "link_text": "GitHub",
+      "bullets": [
+        "【做了什么，用了什么方法，结果如何】",
+        "【量化结果，例如准确率 / 覆盖量 / 节省的时长】"
+      ]
+    },
+    {
+      "title": "【第二个项目，选与岗位最相关的】",
+      "meta": "【时间】",
+      "bullets": [
+        "【一句话】"
+      ]
+    }
+  ],
+  "skills": [
+    "<strong>【技能簇一】：</strong>【具体工具与方法】。",
+    "<strong>【技能簇二】：</strong>【具体工具与方法】。",
+    "<strong>【技能簇三】：</strong>【具体工具与方法】。",
+    "<strong>语言能力：</strong>【如实写】。"
+  ],
+  "section_titles": {
+    "education": "教育背景",
+    "summary": "个人总结",
+    "work": "工作经历",
+    "projects": "项目经历",
+    "skills": "专业技能"
+  }
+}
